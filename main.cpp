@@ -17,10 +17,5 @@ int main() {
     default:
       cout<<"stringa non valida";
   }
-  
-
-   
-   
-   
-   return 0;
+  return 0;
 }
